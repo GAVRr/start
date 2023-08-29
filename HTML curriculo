@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+    <link rel="stylesheet" href="curriculo.CSS">
+</head>
+<body>
+    <h1 class="principal"> João da silva </h1>
+
+<p class="pe">Brasileiro,Solteiro, 30 anos</p>
+
+<ul class="list">
+    <li><a href="#">linkedin</a></li>
+    <li><a href="#">Github</a></li>
+    <li><a href="#">Instagram</a></li>
+</ul>
+
+<h1>Objetivo</h1>
+
+
+<p>Front-End developer, Desenvolvedor Front-End,Webdesigner</p>
+
+<h1>Experiências profissionais</h1>
+
+<p> <a href="UOL">UOL</a>- <b>12/2014 até 02/2015 - 2 meses</b></p>
+<br>
+
+<p> <b>Analista Programador - 2 meses</b></p>
+<br>
+<p>Desenvolvedor de aplicações web com HTML,CSS,
+   AngularJS,Javascript,Ajax,Rest,JSON,PHP.</p>
+   <br>
+<p><a href="Terra">Terra</a> - <b>1 ano</b></p>
+<br>
+<p><b>Desenvolvedor Front-End - 1 ano</b> </p>
+<br>
+<p> Atuei como Desenvolvedor Front-End Pleno, participando ativamente em todos os
+   projetos da empresa (aplicação WEB, aplicativo Mobile e Portais).</p>
+   <br>
+<p> Trabalhei efetivamente usando tecnologias como 
+    HTML5,CSS,AngularJS,Wordpress,PHP,JSON e Javascript
+</p>
+<br>
+<p><a href="G1">G1</a> - <b>6 meses</b></p>
+<br>
+<p><b>Desenvolvedor Front-End - 6 meses</b></p>
+<br>
+<p>Trabalhando com portais, landing pages e eCommerce, codando manualmente HTML,
+ CSS, JavaScript, trabalhando diretamente com a equipe de Back-End com PHP.</p>
+ <br>
+<h1>Formação</h1>
+
+<p><b>Graduação em Tecnologia da informação</b></p>
+<br>
+<p>01/2010 a 12/2012</p>
+<br>
+<p>Faculdade qualquer uma</p>
+<br>
+<p><b>Pós-graduação em Projetos
+   computacionais em técnologias front-end</b></p>
+   <br>
+<p>08/2014 a 12/2015</p>
+<br>
+<p>Faculdade qualquer uma</p>
+<br>
+<h1>Cursos/Especializações</h1>
+
+<ul><li>Participação no evento Search Masters Brasil - São Paulo (2014)</li>
+<li>Certificação em Google Adwords - Google Partness Weekend (2015)</li></ul>
+<br>
+<p><b>HTML5</b></p>
+<br>
+<p>serfrontend - 40h - 2023</p>
+<br>
+<p><b>javascript</b></p>
+<br>
+<p>serfronend - 40h - 2023</p>
+<br>
+<p><b>CSS3</b></p>
+<br>
+<p>serfrontend - 40h - 2023</p>
+<br>
+<p><b>idiomas</b></p>
+<br>
+<p>Inglês - Básico</p>
+</body>
+</html>
