@@ -1,0 +1,80 @@
+body{
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 56px;
+    margin-left: 190px;
+    margin-right: 190px;
+   
+    
+}
+
+.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(192, 166, 216);
+    text-align: center;
+    color: rgb(0, 0, 117);
+    border-bottom: none;
+    margin-bottom: 0;
+    
+   
+    
+}
+.pe{
+    text-align: center;
+    background-color: rgb(185, 141, 226);
+    margin-top: 0;
+}
+h1{
+    background-color: rgb(155, 153, 153);
+    width: auto;
+    border-bottom:5px solid rgb(1, 1, 113);
+    color: rgb(1, 1, 145);
+    padding: 9px;
+    
+  
+}
+
+p{
+    margin: auto;
+    
+
+
+}
+
+a{
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+    
+}
+
+.list li{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 10px;
+    display: inline-block;
+    padding: 13px;
+    
+    
+     
+}
+
+.list{
+    
+    text-align: right;
+    margin-right: 100px;
+}
+
+.list a {
+    background-color: rgb(157, 157, 157);
+    padding: 13px;
+    color: black;
+}
+
+.list a:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+
+
+
